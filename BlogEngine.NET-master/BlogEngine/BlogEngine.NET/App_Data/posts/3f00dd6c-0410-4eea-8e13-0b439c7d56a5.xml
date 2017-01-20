@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>Test Post Title</title>
+  <description>test post description
+&amp;nbsp;
+save post</description>
+  <content>&lt;p&gt;test post description&lt;img src="/image.axd?picture=/jetBrain.png" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;save post&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2017-01-19 10:49:00</pubDate>
+  <lastModified>2017-01-19 10:50:49</lastModified>
+  <raters>1</raters>
+  <rating>5</rating>
+  <slug>test-post-title</slug>
+  <tags />
+  <comments />
+  <categories />
+  <notifications />
+</post>

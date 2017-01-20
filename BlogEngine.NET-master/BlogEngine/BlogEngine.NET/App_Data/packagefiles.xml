@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InstalledPackageFiles>
+    <item id="Yoko" fileorder="1" filepath="Custom\Themes\Yoko" isdirectory="True" />
+    <item id="Yoko" fileorder="2" filepath="Custom\Themes\Yoko\images" isdirectory="True" />
+    <item id="Yoko" fileorder="3" filepath="Custom\Themes\Yoko\images\ginko.jpg" isdirectory="False" />
+    <item id="Yoko" fileorder="4" filepath="Custom\Themes\Yoko\js" isdirectory="True" />
+    <item id="Yoko" fileorder="5" filepath="Custom\Themes\Yoko\js\html5.js" isdirectory="False" />
+    <item id="Yoko" fileorder="6" filepath="Custom\Themes\Yoko\CommentView.ascx" isdirectory="False" />
+    <item id="Yoko" fileorder="7" filepath="Custom\Themes\Yoko\PostView.ascx" isdirectory="False" />
+    <item id="Yoko" fileorder="8" filepath="Custom\Themes\Yoko\site.master" isdirectory="False" />
+    <item id="Yoko" fileorder="9" filepath="Custom\Themes\Yoko\site.master.cs" isdirectory="False" />
+    <item id="Yoko" fileorder="10" filepath="Custom\Themes\Yoko\style.css" isdirectory="False" />
+    <item id="Yoko" fileorder="11" filepath="Custom\Themes\Yoko\theme.png" isdirectory="False" />
+    <item id="Yoko" fileorder="12" filepath="Custom\Themes\Yoko\theme.xml" isdirectory="False" />
+    <item id="Yoko" fileorder="13" filepath="Custom\Themes\Yoko\udklip.css" isdirectory="False" />
+    <item id="Yoko" fileorder="14" filepath="Custom\Themes\Yoko\ve-43D8.tmp" isdirectory="False" />
+    <item id="Yoko" fileorder="15" filepath="Custom\Themes\Yoko\WidgetContainer.ascx" isdirectory="False" />
+</InstalledPackageFiles>

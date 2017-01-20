@@ -1,0 +1,9 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 1/19/2017 10:44:35 AM
+Error checking stopforumspam.com: The remote server returned an error: (503) Server Unavailable.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 1/19/2017 10:44:37 AM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 1/20/2017 11:07:20 AM
+Installed package Yoko by admin
