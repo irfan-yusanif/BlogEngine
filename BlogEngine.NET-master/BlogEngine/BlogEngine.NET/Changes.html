@@ -1,0 +1,42 @@
+﻿<!--Changes made to this site:-->
+
+<!--web.config-->
+single user changed to multi-User
+
+
+<!--custom.js:-->
+adminAlertHtml = "";
+
+
+<!--toastr.css:-->  (toastr is only available in admin panel!)
+.dashboard-gallery, .dashboard-news, #mu-about, #mu-custom, #mu-settings {
+    display:none !important;
+}
+
+
+<!--TO DO:-->
+Don't change url of images in js because all images are replaced!
+<!--TO DO (END)-->
+
+
+BlogEngine.NET /Content/images/blog/logo.png
+		/Content/images/blog/logo-footer.png
+		/Content/themes/standard/img/logo-sidebar.png
+
+
+<!--Js Changes-->
+
+Added HelloWorldModule.cs but its not working (also added its reference in web.config)
+
+
+/Content/images/blog/logo.png  --> default logo path
+
+
+$('body').find('img').each(function() {
+    var href = $(this).attr('src');
+	if(href.indexOf('blogengine') != -1 || href.indexOf('e.net') != -1 ){
+    	$(this).attr('src':'/Content/images/blog/logo.png');
+	}
+});
+
+

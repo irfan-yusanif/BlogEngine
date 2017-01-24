@@ -1,0 +1,3 @@
+﻿.dashboard-gallery, .dashboard-news, #mu-about /*, #mu-custom, #mu-settings*/ {
+    display:none !important;
+}

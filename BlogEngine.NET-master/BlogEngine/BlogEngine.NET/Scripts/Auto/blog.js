@@ -1,4 +1,7 @@
-﻿// global object
+﻿
+
+
+// global object
 BlogEngine = {
     $: function (id) {
         return document.getElementById(id);

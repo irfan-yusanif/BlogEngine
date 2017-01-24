@@ -145,6 +145,8 @@
     <Content Include="admin\themes\standard\img\profile.png" />
     <Content Include="App_Data\datastore\widgets\deb9fd7c-e0f4-4f24-964d-d5f67332bab0.xml" />
     <Content Include="App_Data\posts\f39c3289-e861-48f7-a4b7-edaaffe6f6dc.xml" />
+    <Content Include="Changes.html" />
+    <Content Include="Content\Auto\Site.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\images\blog\icon-left.svg" />
@@ -1534,6 +1536,7 @@
     <Content Include="Scripts\moment-with-locales.min.js" />
     <Content Include="Scripts\moment.js" />
     <Content Include="Scripts\moment.min.js" />
+    <Content Include="Scripts\Auto\Site.js" />
     <Content Include="Scripts\syntaxhighlighter\editor_plugin.js" />
     <Content Include="Scripts\syntaxhighlighter\editor_plugin_src.js" />
     <Content Include="Scripts\syntaxhighlighter\images\syntaxhighlighter.gif" />

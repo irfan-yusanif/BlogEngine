@@ -1,0 +1,49 @@
+web.config 
+----------
+single user changed to multi-User
+
+
+custom.js:
+----------
+adminAlertHtml = "";
+
+
+toastr.css:   (no need for that because user roles is there!)
+-----------
+.dashboard-gallery, .dashboard-news, #mu-about, #mu-custom, #mu-settings {
+    display:none !important;
+}
+
+
+
+BlogEngine.NET /Content/images/blog/logo.png
+		/Content/images/blog/logo-footer.png
+		/Content/themes/standard/img/logo-sidebar.png
+
+
+
+$('body').find('a').each(function() {
+    var href = $(this).attr('href');
+	if(href.indexOf('blogengine') != -1){
+    	$(this).attr('href','..');
+	}
+});
+
+
+$('body').find('img').each(function() {
+    var href = $(this).attr('alt');
+	if(href.indexOf('blogengine') != -1 || href.indexOf('e.net') != -1 ){
+    	$(this).attr('alt':'Sharpdoor.com');
+	}
+});
+
+
+/Content/images/blog/logo.png  --> default logo path
+
+
+$('body').find('img').each(function() {
+    var href = $(this).attr('src');
+	if(href.indexOf('blogengine') != -1 || href.indexOf('e.net') != -1 ){
+    	$(this).attr('src':'/Content/images/blog/logo.png');
+	}
+});

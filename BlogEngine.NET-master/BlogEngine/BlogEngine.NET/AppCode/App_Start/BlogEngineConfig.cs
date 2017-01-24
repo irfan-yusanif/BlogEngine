@@ -101,6 +101,7 @@ namespace BlogEngine.NET.App_Start
                 .Include("~/Content/toastr.css")
                 .Include("~/Content/font-awesome.min.css")
                 .Include("~/Content/star-rating.css")
+                //.Include("~/Content/Auto/Site.css")
                 );
 
             bundles.Add(
@@ -123,6 +124,7 @@ namespace BlogEngine.NET.App_Start
                 .Include("~/admin/app/data-service.js")
                 .Include("~/admin/app/editor/filemanagerController.js")
                 .Include("~/admin/app/common.js")
+                //.Include("~/Scripts/Auto/Site.js")
 
                 .Include("~/admin/app/dashboard/dashboardController.js")
 
